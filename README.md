@@ -183,4 +183,4 @@ Run the notebooks in this sequence:
 ## Author
 
 **Rohit Vastani**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/rohit-vastani)
+[GitHub](https://github.com/your-username) · [LinkedIn]([https://linkedin.com/in/rohit-vastani](https://www.linkedin.com/in/rohit-vastani-3a9a18301?utm_source=share_via&utm_content=profile&utm_medium=member_android))
