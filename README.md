@@ -108,7 +108,7 @@ Despite v3 being a much larger model, v1's embeddings yield higher silhouette sc
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/indic-language-clustering.git
+git clone https://github.com/Rohit-8626/Clustering-Indic-Language-using-Embeddings.git
 cd indic-language-clustering
 pip install -r requirements.txt
 ```
@@ -183,4 +183,4 @@ Run the notebooks in this sequence:
 ## Author
 
 **Rohit Vastani**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://www.linkedin.com/in/rohit-vastani-3a9a18301?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[GitHub](https://github.com/Rohit-8626) · [LinkedIn](https://www.linkedin.com/in/rohit-vastani-3a9a18301?utm_source=share_via&utm_content=profile&utm_medium=member_android)
